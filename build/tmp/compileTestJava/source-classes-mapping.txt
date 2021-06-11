@@ -1,0 +1,2 @@
+com/happyhotel/booking/Test00SanityCheck.java
+ com.happyhotel.booking.Test00SanityCheck
